@@ -12,7 +12,7 @@ Developed as part of the Software Engineering curriculum at the Faculty of Elect
 
 ---
 
-## 🔄 System Overview & Core Features
+## System Overview & Core Features
 
 1. **Role-Based Authentication & Workflows:** Distinct dashboards and permissions tailored across 3 user roles: **Clients**, **Therapists**, and **Administrators**.
 2. **Appointment Scheduling Engine:** Interactive session booking, calendar availability tracking, and automated appointment status updates.
@@ -21,7 +21,7 @@ Developed as part of the Software Engineering curriculum at the Faculty of Elect
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Backend:** ASP.NET Core (.NET 8), C#, RESTful Web APIs
 * **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
@@ -30,7 +30,7 @@ Developed as part of the Software Engineering curriculum at the Faculty of Elect
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ### Prerequisites
 * [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
