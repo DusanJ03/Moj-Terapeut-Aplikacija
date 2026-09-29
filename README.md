@@ -1,4 +1,4 @@
-# 🩺 Moj Terapeut — Full-Stack Web Application
+# Moj Terapeut — Full-Stack Web Application
 
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-purple)
 ![C#](https://img.shields.io/badge/Language-C%23-blue)
